@@ -1,110 +1,103 @@
 ---
 layout: default
-title: Privacy Policy
+title: Terms and Conditions
 ---
 
-# Privacy Policy
+# Terms and Conditions
 
 **Effective Date:** May 6, 2025  
 **App Name:** National Fruits and Dry Fruits Center
 
-Thank you for using our app! We are committed to protecting your privacy and providing transparency about how we collect, use, and safeguard your information. This Privacy Policy explains what data we collect, why we collect it, how we use it, and how you can control or delete your data.
+Welcome to our app! By accessing or using the National Fruits and Dry Fruits Center app, you agree to be bound by the following Terms and Conditions. Please read them carefully.
 
 ---
 
-## 1. Information We Collect
+## 1. Acceptance of Terms
 
-We collect the following types of information when you use our app:
-
-### 📌 Personal Information
-- First Name and Last Name
-- **Mobile Number** – for account creation and delivery-related communication
-- **Email Address** – for account communication and updates
-- **Physical Address** – for delivering your orders to the correct location
-- **Profile Photo** – optionally provided by you for personalizing your profile
-
-### 📱 Device and App Information
-- Device type, Android version (for compatibility and optimization)
-- Crash logs and diagnostics (for improving app stability)
-- Usage data (e.g., which features are accessed)
+By using our app, you agree to these Terms and Conditions, our Privacy Policy, and any additional terms that may apply. If you do not agree, please do not use the app.
 
 ---
 
-## 2. Why We Collect This Data
+## 2. Use of the App
 
-We collect your data for the following purposes:
+You agree to use the app only for lawful purposes and in accordance with these terms. You may not use the app:
 
-- ✅ **Order Fulfillment:** To deliver products accurately to your address
-- 📞 **Mobile Number Usage:** Enables delivery personnel to contact you if they need assistance finding your location
-- 🔄 **Communication:** To send confirmations, updates, or support messages
-- 📸 **Profile Photo:** Used only for in-app user display to personalize your experience
-- 📊 **Performance Tracking:** Improve features, detect bugs, and optimize your app experience
-
-> **Note:** We do **not** use your personal data for advertising or sell it to third parties.
+- ❌ In any way that violates applicable laws or regulations
+- ❌ To exploit or harm others, especially minors
+- ❌ To send spam, phishing, or any harmful content
+- ❌ To interfere with or disrupt the app's performance or servers
 
 ---
 
-## 3. How We Use and Store Your Data
+## 3. Account Registration
 
-- Your data is securely stored on our servers.
-- We use industry-standard encryption and access control to protect your information.
-- Only authorized personnel have access to your data.
-- We retain data **only as long as necessary** for the purposes described or as required by law.
+To place orders or access certain features, you may need to register an account.
 
----
-
-## 4. Data Sharing Policy
-
-We **do not sell or rent** your data to third parties.
-
-We may share data in the following limited situations:
-- ✅ With **trusted partners** (e.g., delivery agents or payment services) solely to provide services
-- ✅ To comply with **legal obligations**
-- ✅ To protect our users or public safety when required
+- ✅ You must provide accurate, complete, and up-to-date information
+- ✅ You are responsible for maintaining the confidentiality of your login credentials
+- ❌ You must not share your account with others or use someone else's account
 
 ---
 
-## 5. User Data Deletion
+## 4. Orders and Payments
 
-You have the right to request deletion of your personal data at any time.
-
-### ✅ How to Delete Your Data
-- **Email us at:** gabbarr1999@gmail.com  
-- Subject: `Account Deletion Request - National Fruits App`  
-- Include your registered **mobile number** or **email address**
-
-Upon verifying your request, we will:
-- Delete your data from our systems
-- Remove order history and account info
-- Send confirmation within **7 business days**
+- ✅ Orders placed through the app are subject to product availability and delivery areas
+- ✅ Payment must be made using the supported methods (e.g., UPI, COD, etc.)
+- ❌ We reserve the right to cancel or refuse any order at our discretion
 
 ---
 
-## 6. How to Delete Your Account (Permanent Deletion)
+## 5. Delivery Policy
 
-You can delete your account by:
-- Contacting support via email as described above
-- (Coming soon) Using the in-app **Delete My Account** feature
+We aim to deliver orders within the time frames mentioned in the app. However:
 
----
-
-## 7. Children's Privacy
-
-This app is not designed for children under the age of 13. We do not knowingly collect personal data from children.
-
-If you're a parent or guardian and believe your child has submitted data to us, please contact us immediately.
+- 🚚 Delivery times may vary due to traffic, weather, or other factors
+- 📞 If we cannot reach you during delivery, we may attempt redelivery or cancel the order
 
 ---
 
-## 8. Changes to This Privacy Policy
+## 6. Refunds and Cancellations
 
-We may update this Privacy Policy occasionally. Updates will be posted here with a revised effective date. Please check this page periodically.
+- ✅ You may cancel an order before it is dispatched
+- ✅ Refunds (if applicable) will be processed to your original payment method
+- ❌ We do not offer refunds for perishable goods once delivered
 
 ---
 
-## 9. Contact Us
+## 7. Intellectual Property
 
-If you have any questions or concerns about this Privacy Policy:
+All content, logos, images, and software used in the app are the property of National Fruits and Dry Fruits Center or its licensors.
+
+- ✅ You may not copy, modify, or distribute any content without written permission
+
+---
+
+## 8. Termination
+
+We reserve the right to suspend or terminate your account if you violate these terms or engage in any harmful behavior.
+
+---
+
+## 9. Limitation of Liability
+
+We are not liable for:
+
+- ❌ Any indirect, incidental, or consequential damages
+- ❌ Issues caused by third-party services or external platforms
+
+---
+
+## 10. Modifications to Terms
+
+We may update these Terms and Conditions from time to time. Changes will be posted here with an updated effective date.
+
+> **Continued use of the app means you accept the updated terms.**
+
+---
+
+## 11. Contact Us
+
+If you have questions about these Terms and Conditions:
 
 - **Email:** gabbarr1999@gmail.com  
 - **Developer:** Gabbarr1999  
