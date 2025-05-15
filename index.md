@@ -16,16 +16,17 @@ Thank you for using our app! We are committed to protecting your privacy and pro
 
 We collect the following types of information when you use our app:
 
-- **Personal Information**
-  - First Name and Last Name
-  - Mobile Number
-  - Email Address
-  - Physical Address (for delivery, billing, or service purposes)
+### 📌 Personal Information
+- First Name and Last Name
+- **Mobile Number** – for account creation and delivery-related communication
+- **Email Address** – for account communication and updates
+- **Physical Address** – for delivering your orders to the correct location
+- **Profile Photo** – optionally provided by you for personalizing your profile
 
-- **Device and App Information**
-  - Device type, Android version (for compatibility and optimization)
-  - Crash logs and diagnostics (for improving app stability)
-  - Usage data (e.g., which features are used)
+### 📱 Device and App Information
+- Device type, Android version (for compatibility and optimization)
+- Crash logs and diagnostics (for improving app stability)
+- Usage data (e.g., which features are accessed)
 
 ---
 
@@ -33,22 +34,22 @@ We collect the following types of information when you use our app:
 
 We collect your data for the following purposes:
 
-- To process orders, deliveries, and customer requests
-- To communicate with you about your orders or support needs
-- To improve the app’s performance, reliability, and features
-- To send important updates or service-related notifications
+- ✅ **Order Fulfillment:** To deliver products accurately to your address
+- 📞 **Mobile Number Usage:** Enables delivery personnel to contact you if they need assistance finding your location
+- 🔄 **Communication:** To send confirmations, updates, or support messages
+- 📸 **Profile Photo:** Used only for in-app user display to personalize your experience
+- 📊 **Performance Tracking:** Improve features, detect bugs, and optimize your app experience
 
-We **do not** use your personal information for advertising or sell it to third parties.
+> **Note:** We do **not** use your personal data for advertising or sell it to third parties.
 
 ---
 
 ## 3. How We Use and Store Your Data
 
-- Your personal data is stored securely on our servers.
-- We implement reasonable safeguards (encryption, access controls) to protect your data.
-- Only authorized personnel have access to personal information.
-
-We retain your data **only as long as necessary** for providing services or as required by law.
+- Your data is securely stored on our servers.
+- We use industry-standard encryption and access control to protect your information.
+- Only authorized personnel have access to your data.
+- We retain data **only as long as necessary** for the purposes described or as required by law.
 
 ---
 
@@ -56,10 +57,10 @@ We retain your data **only as long as necessary** for providing services or as r
 
 We **do not sell or rent** your data to third parties.
 
-We may share data only in these situations:
-- With trusted partners or services that help us deliver our services (e.g., delivery providers, payment processors)
-- To comply with legal obligations, such as a court order or legal request
-- To protect the rights, safety, or property of our users, the public, or the app
+We may share data in the following limited situations:
+- ✅ With **trusted partners** (e.g., delivery agents or payment services) solely to provide services
+- ✅ To comply with **legal obligations**
+- ✅ To protect our users or public safety when required
 
 ---
 
@@ -70,42 +71,40 @@ You have the right to request deletion of your personal data at any time.
 ### ✅ How to Delete Your Data
 - **Email us at:** gabbarr1999@gmail.com  
 - Subject: `Account Deletion Request - National Fruits App`  
-- Provide your registered mobile number or email address.
+- Include your registered **mobile number** or **email address**
 
-Once we verify your request, we will:
-- Delete your personal data from our systems
-- Remove your order or account records
-- Confirm the deletion within **7 business days**
+Upon verifying your request, we will:
+- Delete your data from our systems
+- Remove order history and account info
+- Send confirmation within **7 business days**
 
 ---
 
 ## 6. How to Delete Your Account (Permanent Deletion)
 
-Currently, you can delete your account by:
-- Contacting our support team via email as outlined above.
-- In future updates, we may provide an in-app **Delete My Account** feature.
+You can delete your account by:
+- Contacting support via email as described above
+- (Coming soon) Using the in-app **Delete My Account** feature
 
 ---
 
 ## 7. Children's Privacy
 
-Our app is not intended for children under 13 years of age. We do not knowingly collect personal information from children.
+This app is not designed for children under the age of 13. We do not knowingly collect personal data from children.
 
-If you are a parent or guardian and believe your child has provided us personal data, please contact us immediately.
+If you're a parent or guardian and believe your child has submitted data to us, please contact us immediately.
 
 ---
 
 ## 8. Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated effective date.
-
-We encourage you to review this policy regularly.
+We may update this Privacy Policy occasionally. Updates will be posted here with a revised effective date. Please check this page periodically.
 
 ---
 
 ## 9. Contact Us
 
-If you have any questions, requests, or complaints about this Privacy Policy, please contact us:
+If you have any questions or concerns about this Privacy Policy:
 
 - **Email:** gabbarr1999@gmail.com  
 - **Developer:** Gabbarr1999  
