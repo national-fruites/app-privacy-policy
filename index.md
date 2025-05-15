@@ -99,8 +99,6 @@ We may update these Terms and Conditions from time to time. Changes will be post
 
 If you have questions about these Terms and Conditions:
 
-- **Email:** gabbarr1999@gmail.com  
-- **Developer:** Gabbarr1999  
-- **GitHub Page:** [https://gabbarr1999.github.io/fruites-privacy](https://gabbarr1999.github.io/fruites-privacy)
+- **Email:** thefoodofnational@gmail.com  
 
 ---
